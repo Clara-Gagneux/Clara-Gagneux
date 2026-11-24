@@ -7,24 +7,24 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/cill0/cill0/master/profile-summary-card-output/radical/0-profile-details.svg" alt="Activité GitHub">
+    <img src="https://raw.githubusercontent.com/Clara-Gagneux/Clara-Gagneux/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Activité GitHub">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/cill0/cill0/master/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Dépôts par langage">
+    <img src="https://raw.githubusercontent.com/Clara-Gagneux/Clara-Gagneux/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Dépôts par langage">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/cill0/cill0/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Commits par langage">
+    <img src="https://raw.githubusercontent.com/Clara-Gagneux/Clara-Gagneux/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits par langage">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/cill0/cill0/master/profile-summary-card-output/radical/3-stats.svg" alt="Statistiques GitHub">
+    <img src="https://raw.githubusercontent.com/Clara-Gagneux/Clara-Gagneux/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Statistiques GitHub">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/cill0/cill0/master/profile-summary-card-output/radical/4-productive-time.svg" alt="Commits par heure">
+    <img src="https://raw.githubusercontent.com/Clara-Gagneux/Clara-Gagneux/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commits par heure">
   </a>
 </p>
